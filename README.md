@@ -6,6 +6,7 @@
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=h1aitham" alt="h1aitham" /></a> </p>
 
 - 🌱 I’m currently learning **Flutter ,Firebase ,Stat Management with Provider ,Getx ,SQL ,Sqflite ,Php Rest Api with flutter .**
+- 👦 I love using Software as a solution for every Problem .
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
