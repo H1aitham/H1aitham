@@ -7,6 +7,10 @@
 
 - 🌱 I’m currently learning **Flutter ,Firebase ,Stat Management with Provider ,Getx ,SQL ,Sqflite ,Php Rest Api with flutter .**
 - 👦 I love using Software as a solution for every Problem .
+- 🤓 Always learning new things1 .
+- 💬 Ask me about C++, Dart , Algorithm , Flutter bLoC,Riverpod,GetX,Provider...
+
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
